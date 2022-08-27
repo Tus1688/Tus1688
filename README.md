@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there 🚀
+According to Dr. Chapman, there are five love languages: ***Words of Affirmation**, **Acts of Service**, **Receiving Gifts**, **Quality Time**, and **Physical Touch***
+
+Python is my love language. 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tus1688&count_private=true&hide=stars&show_icons=true&theme=dark)
 
 <!--
 **Tus1688/Tus1688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
